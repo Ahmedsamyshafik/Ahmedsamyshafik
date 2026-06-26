@@ -18,8 +18,7 @@ Building scalable web applications and continuously learning modern software eng
 * 🎓 Computer Science & Artificial Intelligence Graduate
 * 🌱 Currently improving my skills in System Design & Software Architecture
 * 🔭 Building real-world web applications using modern technologies
-* ⚡ Interested in Clean Architecture, Microservices, DDD, and Scalable Systems
-* 📍 Egypt
+* 📍 Egypt 
 
 ---
 
@@ -47,7 +46,7 @@ Building scalable web applications and continuously learning modern software eng
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+
 
 ---
 
@@ -83,29 +82,23 @@ Building scalable web applications and continuously learning modern software eng
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmedsamyshafik&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Platform
+### 📚 GraduationProject-ManageStudentHousing 
 
-Angular • ASP.NET Core • SQL Server
+ASP.NET Core API • Paymob Gateway • Clean Architecture CQRS 
 
-### 💬 Real-Time Chat Application
+### 🛒 E-Commerce Platform [Front]
 
-SignalR • Angular • ASP.NET Core
+Angular 
 
-### 📚 Library Management System
+### 🛒 E-Commerce Platform [MVC]
 
-ASP.NET Core MVC • Entity Framework Core
+ASP.NET Core  • 3-Tier-Architecture  •Strip Payment
+
+
 
 ---
 
@@ -113,7 +106,7 @@ ASP.NET Core MVC • Entity Framework Core
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/ahmed-samy-619791221/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
