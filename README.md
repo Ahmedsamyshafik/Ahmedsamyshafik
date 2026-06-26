@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmed Samy</h1>
 
-<h3 align="center">Full-Stack Developer | ASP.NET Core | Angular</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;ASP.NET+Core+Developer;Angular+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+</p>
 
 <p align="center">
 Building scalable web applications and continuously learning modern software engineering practices.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmedsamyshafik&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ahmedsamyshafik&style=for-the-badge"/>
 </p>
 
 ---
